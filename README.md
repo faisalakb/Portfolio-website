@@ -199,7 +199,7 @@ If you like this project...
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a href="https://choosealicense.com/licenses/mit/" name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
