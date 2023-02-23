@@ -63,7 +63,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink123.com)
+- [Live Demo Link](https://htmlpreview.github.io/?https://github.com/faisalakb/Portfolio-website/blob/main/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +94,11 @@ And then open your folder in VSCode and install require packages
 commands:
 
   cd my-folder location
+<<<<<<< HEAD
   git clone https://github.com/faisalakb/Portfolio-website.git
+=======
+  git clone https://github.com/faisalakb/Portfolio-website1
+>>>>>>> 91bd4a7474a2730d9f8c4c696533261c8579967c
 
 
 ### Install
@@ -148,7 +152,7 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Faisal**
 
 - GitHub: [@githubhandle](https://github.com/faisalakb)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
@@ -199,10 +203,7 @@ If you like this project...
 
 <!-- LICENSE -->
 
-## 📝 License <a href="https://choosealicense.com/licenses/mit/"  name="license"></a>
+## 📝 License <a href="./License" name="license"></a>
 
-This project is <a href="https://choosealicense.com/licenses/mit/"  name="license">MIT</a> licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
+This project is <a href="./License" name="license"> MIT</a> licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
